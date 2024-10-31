@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-tagline: Helping Businesses Identify & Integrate Cutting-Edge AI Solutions
+tagline: Helping Businesses Integrate Cutting-Edge AI Solutions
 permalink: /services.html
 ref: services
 order: 2
@@ -10,8 +10,8 @@ order: 2
 We offer 3 core services:
 
 - **AI Consulting**
-- **AAI Chatbot Development**A
-- **AAutonomous AI Agent Development**A
+- **AI Chatbot Development**
+- **Autonomous AI Agent Development**
 
 ## AI Consulting
 

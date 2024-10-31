@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-tagline: Helping Businesses Understand and Intergate AI Solutions
+tagline: Helping Businesses Identify & Integrate Cutting-Edge AI Solutions
 permalink: /services.html
 ref: services
 order: 2

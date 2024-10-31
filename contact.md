@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tagline: Book a free consultation with me
+tagline: Book a FREE AI Consultation with me
 ref: contact
 order: 1
 ---

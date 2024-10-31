@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-tagline: What I'm doing now
+tagline: Helping Businesses Understand and Intergate AI Solutions
 permalink: /services.html
 ref: services
 order: 2
@@ -9,9 +9,9 @@ order: 2
 
 We offer 3 core services:
 
-- AI Consulting
-- AI Chatbot Development
-- Autonomous AI Agent Development
+- **AI Consulting**
+- **AAI Chatbot Development**A
+- **AAutonomous AI Agent Development**A
 
 ## AI Consulting
 

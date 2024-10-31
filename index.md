@@ -8,8 +8,8 @@
 layout: home
 ---
 
-As an AI automation agency, we are focussed on simplyfying the integration of AI into your business operations.
+Focussed on simplyfying the integration of AI into your business operations.
 
 We assist you in identifying and integrating cutting edge AI solutions, guiding you seamlessly from inception to deployment and beyond.
 
-Find out more about our [services](services.html) or book a [free initial consultation](https://calendly.com/the-futurai/free-initial-ai-consultation){:target="_blank" rel="noopener"}
+**Find out more about our [services](services.html) or book a [free initial consultation](https://calendly.com/the-futurai/free-initial-ai-consultation){:target="_blank" rel="noopener"}**

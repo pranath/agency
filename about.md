@@ -9,7 +9,9 @@ order: 0
 
 I’m Pranath Fernando, I have a BSc, & MSc and I have a background as a AI Researcher and Data Scientist as well as an AI Consultant and have worked for large companies as well as small AI startups.
 
-![](me-round.png)
+<p align="center">
+  <img src="me-round.png" alt="Photo of PranathFernando"/>
+</p>
 
 [My LinkedIn](https://www.linkedin.com/in/pranath-fernando/)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tagline: How to get in touch
+tagline: Book a free consultation with me
 ref: contact
 order: 1
 ---
@@ -36,4 +36,4 @@ Based on your answers to a few questions on your business and it's needs, in our
 - Opportunities to use your data with AI to drive your business goals
 - Overall recommendations for developing your AI & data projects
 
-[Book a Free 45 min consultation](https://calendly.com/the-futurai/free-initial-ai-consultation)
+## [Book a Free 45 min consultation](https://calendly.com/the-futurai/free-initial-ai-consultation)

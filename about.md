@@ -1,17 +1,22 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Pranath Fernando
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-About Pranath.
+I’m Pranath Fernando, I have a BSc, & MSc and I have a background as a AI Researcher and Data Scientist as well as an AI Consultant and have worked for large companies as well as small AI startups.
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+![](me-round.png)
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+[My LinkedIn](https://www.linkedin.com/in/pranath-fernando/)
 
+I’ve been amazed by the rapid progress of AI developments over the last few years, the progress in AI we have seen, has been nothing short of breathtaking, and I'm now looking forward to bringing these benefts to businesses.
+
+I live in Brighton, which is a lovely seaside city on the south coast of the UK.
+
+![](brighton-beach.jpg)
 
 [Go to the Home Page]({{ '/' | absolute_url }})
